@@ -101,7 +101,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const FetchbuttonRef = document.getElementById("button");
   if (FetchbuttonRef) {
     FetchbuttonRef.addEventListener("click", () => {
-      window.location.href = "weather.html";
+      window.location.href = "index1.html";
     });
   }
   getLocation();
